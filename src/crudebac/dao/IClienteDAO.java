@@ -5,7 +5,7 @@ import java.util.Collection; // Importação da interface Collection do pacote j
 
 /**
  * Interface que representa as operações básicas de um DAO (Data Access Object) para a entidade Cliente.
- * O autor desta interface é Diego Pazzini.
+ * @author Diego Pazzini
  */
 public interface IClienteDAO {
 
