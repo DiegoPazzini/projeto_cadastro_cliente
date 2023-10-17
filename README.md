@@ -20,6 +20,10 @@ Ao agrupar essas classes em um pacote de domínio separado, é possível obter u
 
 Nesse projeto (`projeto_cadastro_cliente`), o `.domain` é o nome do pacote que contém a classe `Cliente`, sendo essa uma entidade de negócio relacionada a um sistema CRUD (Create, Read, Update, Delete).
 
+Em Java, DAO (Data Access Object) é um padrão de projeto (design pattern) que é usado para separar a lógica de acesso a dados do restante do código de uma aplicação. O objetivo principal do padrão DAO é fornecer uma interface abstrata para interagir com a camada de persistência de dados, isolando o código de negócio da implementação específica do banco de dados.
+
+O DAO atua como uma camada intermediária entre a camada de negócios e a camada de persistência de dados. Ele fornece métodos para criar, recuperar, atualizar e excluir objetos persistentes, ocultando os detalhes de como os dados são armazenados e recuperados.
+
 
 ## Skills utilizadas:
 <div style="display: inline_block"><br>
