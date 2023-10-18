@@ -2,7 +2,7 @@
 
 Módulo 13
 
-Programa criado com o objetivo de criar um cadastro de clientes.
+Programa desenvolvido com o objetivo de criar um cadastro de clientes.
 CRUD" é uma sigla que significa "Create, Read, Update, Delete" (Criar, Ler, Atualizar, Deletar, em tradução livre). É um acrônimo comumente usado na área de desenvolvimento de software para descrever as quatro operações básicas que podem ser realizadas em um sistema de gerenciamento de banco de dados ou em um aplicativo que lida com dados.
 
 - Create (Criar): Refere-se à criação de novos registros ou objetos no banco de dados.
